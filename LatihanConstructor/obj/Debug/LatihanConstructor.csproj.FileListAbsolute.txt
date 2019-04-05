@@ -1,0 +1,7 @@
+D:\Matkul\Pemrogaman\GIT\LatihanConstructor\LatihanConstructor\bin\Debug\LatihanConstructor.exe.config
+D:\Matkul\Pemrogaman\GIT\LatihanConstructor\LatihanConstructor\bin\Debug\LatihanConstructor.exe
+D:\Matkul\Pemrogaman\GIT\LatihanConstructor\LatihanConstructor\bin\Debug\LatihanConstructor.pdb
+D:\Matkul\Pemrogaman\GIT\LatihanConstructor\LatihanConstructor\obj\Debug\LatihanConstructor.csprojAssemblyReference.cache
+D:\Matkul\Pemrogaman\GIT\LatihanConstructor\LatihanConstructor\obj\Debug\LatihanConstructor.csproj.CoreCompileInputs.cache
+D:\Matkul\Pemrogaman\GIT\LatihanConstructor\LatihanConstructor\obj\Debug\LatihanConstructor.exe
+D:\Matkul\Pemrogaman\GIT\LatihanConstructor\LatihanConstructor\obj\Debug\LatihanConstructor.pdb
